@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "grammy": "^1.30.0",
+    "nodemon": "^3.1.7"
+  }
+}
