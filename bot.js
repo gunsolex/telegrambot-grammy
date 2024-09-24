@@ -12,5 +12,6 @@ bot.on("message:text", (ctx) => {
     }
 });
 
+console.log("Bot started");
 // Start the bot (using long polling)
 bot.start();
